@@ -1,5 +1,7 @@
 .history/
 Reference.md
+public/uploads/*
+!public/uploads/.gitkeep
 
 .vscode
 
