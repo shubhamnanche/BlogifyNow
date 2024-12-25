@@ -2,6 +2,8 @@
 Reference.md
 public/uploads/*
 !public/uploads/.gitkeep
+public/images/*
+!public/images/default_avatar.jpg
 
 .vscode
 
